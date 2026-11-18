@@ -1,0 +1,2 @@
+2b81e0fba544a56f2dfc16736bc3698abdcdab4b23a51ace8558e1f095b2a38a  待办助手-Setup-1.0.6.exe
+7da9053cc6b84727ef43a08c0093f18a9c70f812ebdec2262541e0bcc746bcf6  daiban-resources-0.1.1.zip
